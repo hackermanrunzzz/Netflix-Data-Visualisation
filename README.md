@@ -27,6 +27,4 @@ This repository contains the code and data for my Netflix Data Visualization Ass
 
 # Project Structure
 - Netflix_Data_Visualization.ipynb: Jupyter Notebook containing the data analysis and visualization code.
-- data/: Directory containing the dataset files used in the analysis.
-- images/: Directory to store images and visualizations generated in the project.
 - requirements.txt: List of required Python libraries and dependencies.
